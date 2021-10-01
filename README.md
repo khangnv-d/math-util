@@ -1,5 +1,6 @@
-[![Math-Util with CI| © 2021 by khang.nv](https://github.com/nguyenvankhang2001/math-util/actions/workflows/math-util-ci.yml/badge.svg)]
-(https://github.com/nguyenvankhang2001/math-util/actions/workflows/math-util-ci.yml)
+![Math-Util with CI| © 2021 by khang.nv
+(https://github.com/nguyenvankhang2001/math-util/actions/workflows/math-util-ci.yml/badge.svg)]
+
 
 # Welcome to Math-Util Repository
 

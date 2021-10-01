@@ -33,18 +33,14 @@ public class AdvancedFactorialTest {
     @Parameters
     public static Object[][] initData() {
         return new Integer[][] {
-            {0,1},
-            {1,1},
-            {2,2},
-            {3,6},
-            {4,24},
-            {5,120}
+                                {0,1},
+                                {1,1},
+                                {2,2},
+                                {3,6},
+                                {4,24},
+                                {5,120}
         };
     }
-    
-    //ta cần map 2 cột vào 2 biến để lát nhồi/feed chúng
-    //hàm checkFactorial, ta gọi là testing kiểu tham số hóa
-    // parameterized testing
     
     //input
     @Parameter(value = 0)
@@ -57,8 +53,11 @@ public class AdvancedFactorialTest {
     public void checkFactorialGivenRightArgumentReturnWell() {
 
         assertEquals(expected, getFactorial(input));
-        
+
 
     }
+    //ta cần map 2 cột vào 2 biến để lát nhồi/feed chúng
+    //hàm checkFactorial, ta gọi là testing kiểu tham số hóa
+    // parameterized testing
        
 }

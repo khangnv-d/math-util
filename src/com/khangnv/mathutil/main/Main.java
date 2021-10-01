@@ -3,9 +3,9 @@
  * To change this template file, choose Tools | Templates
  * and open the template in the editor.
  */
-package com.nampv.mathutil.main;
+package com.khangnv.mathutil.main;
 
-import com.nampv.mathutil.core.MathUtil;
+import com.khangnv.mathutil.core.MathUtil;
 
 /**
  *

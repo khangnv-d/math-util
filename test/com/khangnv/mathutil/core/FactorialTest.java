@@ -3,7 +3,7 @@
  * To change this template file, choose Tools | Templates
  * and open the template in the editor.
  */
-package com.nampv.mathutil.core;
+package com.khangnv.mathutil.core;
 
 import org.junit.Assert;
 import org.junit.Test;

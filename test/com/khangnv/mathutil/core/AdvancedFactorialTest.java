@@ -3,9 +3,9 @@
  * To change this template file, choose Tools | Templates
  * and open the template in the editor.
  */
-package com.nampv.mathutil.core;
+package com.khangnv.mathutil.core;
 
-import static com.nampv.mathutil.core.MathUtil.*;
+import static com.khangnv.mathutil.core.MathUtil.*;
 import org.junit.Test;
 import static org.junit.Assert.*;
 import org.junit.runner.RunWith;
